@@ -1,0 +1,24 @@
+# textdomain: snippets_buttons
+
+##[ src/api.lua ]##
+Unconfigured snippets button=
+Snippet to run:=
+Insufficient privileges!=
+Unknown snippet!=
+Snippet: @1=
+Invalid snippet: =
+
+##[ src/btn_sprite.lua ]##
+Information sign (round)=
+Information sign (square)=
+Question mark (round)=
+Question mark (square)=
+Warning sign (round)=
+Warning sign (square)=
+
+##[ src/btn_sprite.lua ]##
+##[ src/btn_visual_btn.lua ]##
+Snippet button: @1=
+
+##[ src/btn_visual_btn.lua ]##
+Visual Button=
