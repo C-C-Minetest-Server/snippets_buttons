@@ -78,6 +78,8 @@ For the original files, they are created by Mesecons Mod Developer Team and cont
 
 This applies to the following textures:
 
+* `textures/snippets_buttons_sprite_info_sq.png`
+* `textures/snippets_buttons_sprite_info.png`
 * `textures/snippets_buttons_sprite_question_sq.png`
 * `textures/snippets_buttons_sprite_question.png`
 * `textures/snippets_buttons_sprite_warning_sq.png`

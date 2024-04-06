@@ -7,6 +7,9 @@ local S = minetest.get_translator("snippets_buttons")
 local use_texture_alpha = minetest.features.use_texture_alpha_string_modes and "clip" or true
 
 local variants = {
+    info = S("Information sign (round)"),
+    info_sq = S("Information sign (square)"),
+
     question = S("Question mark (round)"),
     question_sq = S("Question mark (square)"),
 
