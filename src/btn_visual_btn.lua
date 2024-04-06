@@ -3,7 +3,7 @@
 -- An actual button
 -- Copyright (C) 2011-2016  Mesecons Mod Developer Team and contributors
 -- Copyright (C) 2024  1F616EMO
--- SPDX-License-Identifier: LGPL-3.0-or-later
+-- SPDX-License-Identifier: LGPL-3.0-only
 
 local S = minetest.get_translator("snippets_buttons")
 local use_texture_alpha = minetest.features.use_texture_alpha_string_modes and "opaque" or nil

@@ -1,7 +1,7 @@
 -- snippets_buttons/src/btn_sprite.lua
 -- Ladder-like texture display
 -- Copyright (C) 2024  1F616EMO
--- SPDX-License-Identifier: LGPL-3.0-or-later
+-- SPDX-License-Identifier: LGPL-3.0-only
 
 local S = minetest.get_translator("snippets_buttons")
 local use_texture_alpha = minetest.features.use_texture_alpha_string_modes and "clip" or true

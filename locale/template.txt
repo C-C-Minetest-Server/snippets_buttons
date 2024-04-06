@@ -1,4 +1,5 @@
 # textdomain: snippets_buttons
+# SPDX-License-Identifier: LGPL-3.0-only
 
 ##[ src/api.lua ]##
 Unconfigured snippets button=

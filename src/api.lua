@@ -3,7 +3,7 @@
 -- Common functions of buttons
 -- Copyright (C) 2019-2024  luk3x
 -- Copyright (C) 2024  1F616EMO
--- SPDX-License-Identifier: LGPL-3.0-or-later AND MIT
+-- SPDX-License-Identifier: LGPL-3.0-onlyr AND MIT
 
 local S = minetest.get_translator("snippets_buttons")
 local FS = function(...) return minetest.formspec_escape(S(...)) end
