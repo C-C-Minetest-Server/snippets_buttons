@@ -80,7 +80,7 @@ This applies to the following textures:
 
 * `textures/snippets_buttons_sprite_question_sq.png`
 * `textures/snippets_buttons_sprite_question.png`
-* `textures/snippets_buttons_sprite_warning_sq.png`.
-* `textures/snippets_buttons_sprite_warning.png`.
+* `textures/snippets_buttons_sprite_warning_sq.png`
+* `textures/snippets_buttons_sprite_warning.png`
 
-The above mentioned work by 1F616EMO is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+The above mentioned works by 1F616EMO are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
